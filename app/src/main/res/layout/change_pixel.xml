@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+        <TextView
+            android:text="Размер кисти"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <SeekBar
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center"
+            android:max="100"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBar" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Цвет линии"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.skydoves.colorpickerview.ColorPickerView
+                android:layout_gravity="left"
+                android:id="@+id/colorPickerLine"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:src="@drawable/palette"
+                app:selector="@drawable/wheel" />
+
+            <View
+                android:id="@+id/colorLineRect"
+                android:layout_gravity="center"
+                android:layout_marginLeft="15dp"
+                android:layout_width="80dp"
+                android:background="@color/colorWhite"
+                android:layout_height="80dp"/>
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Цвет заливки"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:weightSum="2"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.skydoves.colorpickerview.ColorPickerView
+                android:layout_gravity="left"
+                android:id="@+id/colorPickerFill"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:src="@drawable/palette"
+                app:selector="@drawable/wheel" />
+            <View
+                android:id="@+id/colorFillRect"
+                android:layout_gravity="center"
+                android:layout_marginLeft="15dp"
+                android:layout_width="80dp"
+                android:background="@color/colorWhite"
+                android:layout_height="80dp"/>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>
+

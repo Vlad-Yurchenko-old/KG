@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_clear"
+        android:icon="@mipmap/ic_clear_black_24dp"
+        android:title="@string/nav_clear"/>
+
+    <item
+        android:id="@+id/nav_mosaic"
+        android:icon="@mipmap/ic_create_black_24dp"
+        android:title="@string/nav_mosaic"/>
+
+
+    <item
+        android:id="@+id/nav_fractal"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/nav_fractal">
+    </item>
+
+
+    <item
+        android:id="@+id/nav_trim"
+        android:icon="@mipmap/ic_square_outline_black_24dp"
+        android:title="@string/nav_trim">
+    </item>
+
+    <item
+        android:id="@+id/nav_projection"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/nav_projection">
+    </item>
+
+    <item
+        android:id="@+id/nav_test"
+        android:icon="@mipmap/ic_face_black_24dp"
+        android:title="@string/nav_test">
+    </item>
+
+
+
+    <item android:title="@string/nav_menu_instument">
+            <menu>
+                <item
+                    android:id="@+id/nav_pen"
+                    android:icon="@mipmap/ic_gesture_black_24dp"
+                    android:title="@string/nav_pen" />
+                <item
+                    android:id="@+id/nav_line"
+                    android:icon="@mipmap/ic_vector_line_black_24dp"
+                    android:title="@string/nav_line" />
+                <item
+                    android:id="@+id/nav_rect"
+                    android:icon="@mipmap/ic_square_outline_black_24dp"
+                    android:title="@string/nav_rect" />
+                <item
+                    android:id="@+id/nav_polygon3"
+                    android:icon="@mipmap/ic_create_black_24dp"
+                    android:title="@string/nav_polygon_3"/>
+                <item
+                    android:id="@+id/nav_polygon"
+                    android:icon="@mipmap/ic_create_black_24dp"
+                    android:title="@string/nav_polygon">
+                </item>
+                <item
+                    android:id="@+id/nav_triangle"
+                    android:icon="@mipmap/ic_create_black_24dp"
+                    android:title="@string/nav_triangle"/>
+                <item
+                    android:id="@+id/nav_round"
+                    android:icon="@mipmap/ic_panorama_fish_eye_black_24dp"
+                    android:title="@string/nav_round" />
+                <item
+                    android:id="@+id/nav_ellipse"
+                    android:icon="@mipmap/ic_panorama_fish_eye_black_24dp"
+                    android:title="@string/nav_ellipse" />
+                <item
+                    android:id="@+id/nav_bezier"
+                    android:icon="@mipmap/ic_create_black_24dp"
+                    android:title="@string/nav_curve"/>
+
+            </menu>
+        </item>
+
+        <item android:title="@string/nav_menu_zalivka">
+            <menu>
+                <item
+                    android:id="@+id/nav_zatrav"
+                    android:icon="@mipmap/ic_format_color_fill_black_24dp"
+                    android:title="@string/nav_zatrav"/>
+                <item
+                    android:id="@+id/nav_zatrav_polygon_grad"
+                    android:icon="@mipmap/ic_format_color_fill_black_24dp"
+                    android:title="@string/nav_zatrav_polygon_grad"/>
+                <item
+                    android:id="@+id/nav_zatrav_polygon_static"
+                    android:icon="@mipmap/ic_format_color_fill_black_24dp"
+                    android:title="@string/nav_zatrav_polygon_static"/>
+                <item
+                    android:id="@+id/nav_fill_rect"
+                    android:icon="@mipmap/ic_square_outline_black_24dp"
+                    android:title="@string/nav_fill_rect"/>
+            </menu>
+        </item>
+
+    <item android:title="@string/nav_menu_file">
+            <menu>
+                <item
+                    android:id="@+id/nav_model"
+                    android:icon="@mipmap/ic_face_black_24dp"
+                    android:title="@string/nav_model" />
+                <item
+                    android:id="@+id/nav_model_static"
+                    android:icon="@mipmap/ic_face_black_24dp"
+                    android:title="@string/nav_model_static" />
+                <item
+                    android:id="@+id/nav_model_random"
+                    android:icon="@mipmap/ic_face_black_24dp"
+                    android:title="@string/nav_model_random" />
+                <item
+                    android:id="@+id/nav_save"
+                    android:icon="@mipmap/ic_file_black_24dp"
+                    android:title="@string/nav_save"/>
+                <item
+                    android:id="@+id/nav_open"
+                    android:icon="@mipmap/ic_file_black_24dp"
+                    android:title="@string/nav_open"/>
+            </menu>
+        </item>
+
+</menu>

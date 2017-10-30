@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="30dp"
+    android:id="@+id/choose3DPropertiesLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textSize="17sp"
+        android:textAlignment="center"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Выберите фигуру"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:spinnerMode="dialog"
+        android:id="@+id/spinner3DFigure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/figureList">
+    </Spinner>
+
+    <TextView
+        android:textSize="17sp"
+        android:textAlignment="center"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Выберите метод отрисовки"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:spinnerMode="dialog"
+        android:id="@+id/spinner3DMethod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/methodList">
+    </Spinner>
+
+    <TextView
+        android:textSize="17sp"
+        android:textAlignment="center"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Выберите проекцию"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:spinnerMode="dialog"
+        android:id="@+id/spinner3DProjection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/projectionList">
+    </Spinner>
+
+    <TextView
+        android:textSize="17sp"
+        android:textAlignment="center"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Выберите действие"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:spinnerMode="dialog"
+        android:id="@+id/spinner3DAction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/actionList">
+    </Spinner>
+
+
+
+    <TextView
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:textAlignment="center"
+        android:textSize="17sp"
+        android:text="Использовать изменение угла для вектора касания"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <CheckBox
+            android:id="@+id/checkBoxChooseAngle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <Button
+        android:textSize="17sp"
+        android:id="@+id/choose3dPropertiesBtn"
+        android:layout_margin="20dp"
+        android:textColor="@color/colorWhite"
+        android:background="@color/green"
+        android:text="Применить"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

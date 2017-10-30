@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\c5da3055e813b30dd582e614040a6e82289fa87b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_eb0bf0a878a6d259070268a01b25385fd91929b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\9c9501d6d435bbe10cdf092081a23de33c9ca347\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_4cf767a28ab494fc51ffac63995feaeb69f05126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\48d4620b0474be88f4cb797eb7d898dfecadeb30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_57c16a6e2d6e04c4ba3bee71b1f802220c3784ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\a2991a5124604cd4392b81d1fd4dff2d745c3059\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_0b5bf0ad8e13093cf73f2ec6461b9446ae807af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\4bc8fa3ce0931f02716cb482502aa772aa45fe16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_2835d8c0214574b693ff49c921ea37f5674382f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\3f764cfcd2156c984b5681818e1c0a4cae38e43e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5f3ca6f3e21830170bd1d976955c4587f174334">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_af4a5d3a82d948cf3c99149a0c669c2b07f76570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\8b3b7dec5b25172f989790927763b32ff22ace47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_c1e789485da682557cc2d29e462e69c0414795ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\05fb07a0f140c9dfa4a1a796ace56817be0e9453\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_53b89dee3caea240dc4c55b598efbdc4e40577ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\279022d46783c6371acb4e5e7c1c4909b3e179ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_c3bbd90dab12c2b3be0ac3796d27491263a06472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\4043fcbbe50d4dd32a3817ea77ccc453d747a241\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_bc0a42966ba28572980c5009234735b52789cb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\b1182537ccd33cd8f2fedd611702c66c98de2364\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_3ec3a31e5d29d9785ff1e835de22512676f8df54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\7049ced16442f994b45f6cb3671ac5ff82b62173\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_e8ea5c24cd76348e88905a20e706a0d628e75e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_85769cc8e6efa3863cc08bd774ea4c33219ffcf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HomeInc\.android\build-cache\813927f7af2f469956f0cb572afaad91b8a76e46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\HomeInc\Desktop\KG-git\app\build\intermediates\pre-dexed\debug\classes_2dc1cee629136435ef3a0108b721d8b3e31d8b9c.jar" />
+    </item>
+
+</items>

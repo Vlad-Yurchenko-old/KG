@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">KG</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_clear">Очистить</string>
+    <string name="nav_menu_instument">Инструменты</string>
+    <string name="nav_pen">Кисть</string>
+    <string name="nav_line">Линия</string>
+    <string name="nav_rect">Прямоугольник</string>
+    <string name="nav_polygon_3">Полигон(3)</string>
+    <string name="nav_round">Круг</string>
+    <string name="nav_clear">Очистить</string>
+    <string name="nav_menu_zalivka">Заливка</string>
+    <string name="nav_zatrav">Затравка</string>
+    <string name="nav_curve">Кривая</string>
+    <string name="nav_menu_file">Файл</string>
+    <string name="nav_model">Person</string>
+    <string name="nav_file">File</string>
+    <string name="nav_save">Save</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_mosaic">Mosaic</string>
+    <string name="nav_zatrav_polygon_grad">многоуг.(градиент)</string>
+    <string name="nav_zatrav_polygon_static">многоуг.(статич.)</string>
+    <string name="nav_fill_rect">Построчная закраска прямоугольника</string>
+    <string name="nav_ellipse">Эллипс</string>
+    <string name="nav_triangle">Треугольник</string>
+    <string name="nav_triangleFill">Закрашенный треугольник</string>
+    <string name="nav_ellipse_fill">Закрашенный эллипс</string>
+    <string name="nav_ermit">Эрмит</string>
+    <string name="nav_NURBS">NURBSSpline</string>
+    <string name="nav_bspline">БСплайн</string>
+    <string name="nav_model_static">Person static</string>
+    <string name="nav_model_random">Person rand</string>
+    <string name="nav_menu_smothing">Сглаженные прямые</string>
+    <string name="nav_trans">Преоборазования</string>
+    <string name="nav_transfer">Перенос</string>
+    <string name="nav_select">Выделить</string>
+    <string name="nav_scaling">Масштабирование</string>
+    <string name="nav_trim">Отсечение</string>
+    <string name="nav_projection">Проекции</string>
+    <string name="nav_fractal">Фракталы</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="nav_polygon">Полигон (N)</string>
+    <string name="nav_test">ТЕСТ</string>
+
+
+    <string-array name="projectionList">
+        <item></item>
+        <item>Ортогональная проекция</item>
+        <item>Прямоугольная аксонометрическая проекция</item>
+        <item>Косоугольная аксонометрическая проекция</item>
+        <item>Центральная одноточечная проекция</item>
+    </string-array>
+
+    <string-array name="figureList">
+        <item></item>
+        <item>Негретянский мальчик</item>
+        <item>Додекаэдр</item>
+        <item>Цилиндр</item>
+        <item>График1</item>
+        <item>График2</item>
+    </string-array>
+
+    <string-array name="methodList">
+        <item></item>
+        <item>Z - буфер</item>
+        <item>Плавающий горизонт</item>
+    </string-array>
+
+    <string-array name="actionList">
+        <item></item>
+        <item>Перемещение</item>
+        <item>Приближение / Удаление</item>
+        <item>Отражение (Oxy)</item>
+        <item>Отражение (Oxz)</item>
+        <item>Отражение (Oyz)</item>
+        <item>Вражение (Ox)</item>
+        <item>Вражение (Oy)</item>
+        <item>Вражение (Oz)</item>
+    </string-array>
+
+</resources>
